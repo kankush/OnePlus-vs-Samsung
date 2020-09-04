@@ -12,3 +12,4 @@ Articles - LexRank Algorithm
 Reviews - NLP's textblob and word clouds.
 
 
+Tableau
