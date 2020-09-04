@@ -8,7 +8,9 @@ Scraped articles from different news blogs using beautiful soup and python.
 
 
 Ratings - Hypothesis Testing
+
 Articles - LexRank Algorithm
+
 Reviews - NLP's textblob and word clouds.
 
 
